@@ -11,11 +11,18 @@ Object identification is Neural networks with HSV model.
 Object location is SURF.
 
 Camera calibration will detect a corner of first pic as origin of robot gripper, store the direction difference betwenn the first pic and the second pic as robot x-axis.
+![image](https://github.com/BruceLhr/Item-pic/blob/master/item%20test-pic/pic1.png?raw=true)
 
 Background substract need to use GMM in order to reduce noise.
+![image](https://github.com/BruceLhr/Item-pic/blob/master/item%20test-pic/pic2.png?raw=true)
 
 Neural networks with HSV model is very simple to configure. But if most of two object have same color, this way is not value. Reader can use other features to train Neural networks.
+![image](https://github.com/BruceLhr/Item-pic/blob/master/item%20test-pic/pic3.png?raw=true)
 
 Object location use SURF,it is beacause i can find any other way to achieve this part. SURF is not a good way to location a keypoint of object, bucause the object need to be placed on a flat surface.
+![image](https://github.com/BruceLhr/Item-pic/blob/master/item%20test-pic/pic4.png?raw=true)
 
 I very like the cvui. It can very quickly to design a ui. It's use!
+![image]()
+
+

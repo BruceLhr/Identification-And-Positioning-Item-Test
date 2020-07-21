@@ -1,0 +1,10 @@
+./input/BDTEST/T1.jpg
+./input/BDTEST/T2.jpg
+./input/BDTEST/T3.jpg
+./input/BDTEST/T4.jpg
+./input/BDTEST/T4.jpg
+./input/BDTEST/T6.jpg
+./input/BDTEST/T7.jpg
+./input/BDTEST/T8.jpg
+./input/BDTEST/T9.jpg
+./input/BDTEST/T10.jpg

@@ -1,0 +1,2 @@
+./input/MODETEST/Mod3temp.jpg
+./input/MODETEST/Mod3-2.jpg

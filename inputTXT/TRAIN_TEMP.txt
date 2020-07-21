@@ -1,0 +1,3 @@
+./input/TRAINTEMP/X.jpg
+./input/TRAINTEMP/P.jpg
+./input/TRAINTEMP/G.jpg

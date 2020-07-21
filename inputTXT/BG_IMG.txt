@@ -1,0 +1,7 @@
+./input/TRAIN/BG/BG1.jpg
+./input/TRAIN/BG/BG2.jpg
+./input/TRAIN/BG/BG3.jpg
+./input/TRAIN/BG/BG4.jpg
+./input/TRAIN/BG/BG5.jpg
+./input/TRAIN/BG/BG6.jpg
+./input/TRAIN/BG/BG7.jpg

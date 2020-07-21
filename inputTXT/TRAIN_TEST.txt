@@ -1,0 +1,9 @@
+./input/TRAINTEST/P2.jpg
+./input/TRAINTEST/G2.jpg
+./input/TRAINTEST/G1.jpg
+./input/TRAINTEST/X2.jpg
+./input/TRAINTEST/P1.jpg
+./input/TRAINTEST/G3.jpg
+./input/TRAINTEST/X3.jpg
+./input/TRAINTEST/P3.jpg
+./input/TRAINTEST/X1.jpg

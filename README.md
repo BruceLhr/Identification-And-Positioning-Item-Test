@@ -11,25 +11,3 @@ Object identification is Neural networks with HSV model
 Object location is SURF.
 
 Camera calibration will detect a corner of first pic as origin of robot gripper, store the direction difference betwenn the first pic and the second pic as robot x-axis.
-
-
-
- 
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
-
- 

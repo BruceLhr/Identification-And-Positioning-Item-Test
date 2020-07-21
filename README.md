@@ -26,7 +26,10 @@ I very like the cvui. It can very quickly to design a ui. It's use!
 ![image](https://github.com/BruceLhr/Item-pic/blob/master/item%20test-pic/pic5.png?raw=true)
 
 It record some full item progress.
+
 Three thread：cvui，camera catch, image process.
+
 New mode: classify object by size.
+
 New distance calculation: input camera parameter by user.
 

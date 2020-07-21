@@ -18,4 +18,4 @@ Neural networks with HSV model is very simple to configure. But if most of two o
 
 Object location use SURF,it is beacause i can find any other way to achieve this part. SURF is not a good way to location a keypoint of object, bucause the object need to be placed on a flat surface.
 
-I very like the cvui. It can very quickly to design a ui, although 
+I very like the cvui. It can very quickly to design a ui. It's use!
